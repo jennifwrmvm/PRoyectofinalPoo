@@ -1,0 +1,500 @@
+Barrio	:	San Marcos	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Barrio	:	El Encino	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Barrio	:	La Salud	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Barrio	:	La Estación	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Barrio	:	La Purísima	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Barrio	:	De Guadalupe	,	Municipio	:	Rincón de Romos	,	Estado	:	Aguascalientes	,	Ciudad	:	Rincón de Romos	,	Código Postal	:	20401	.
+Barrio	:	De Chora	,	Municipio	:	Rincón de Romos	,	Estado	:	Aguascalientes	,	Ciudad	:	Rincón de Romos	,	Código Postal	:	20401	.
+Barrio	:	Cholula	,	Municipio	:	Tepezalá	,	Estado	:	Aguascalientes	,	Ciudad	:	Tepezalá	,	Código Postal	:	20999	.
+Barrio	:	Del Socorro	,	Municipio	:	Tepezalá	,	Estado	:	Aguascalientes	,	Ciudad	:	Tepezalá	,	Código Postal	:	20999	.
+Barrio	:	Carboneras	,	Municipio	:	Pabellón de Arteaga	,	Estado	:	Aguascalientes	,	Ciudad	:	Pabellón de Arteaga	,	Código Postal	:	20671	.
+Barrio	:	Palo Alto	,	Municipio	:	Pabellón de Arteaga	,	Estado	:	Aguascalientes	,	Ciudad	:	Pabellón de Arteaga	,	Código Postal	:	20671	.
+Barrio	:	Santa Cruz	,	Municipio	:	Asientos	,	Estado	:	Aguascalientes	,	Ciudad	:	Asientos	,	Código Postal	:	20999	.
+Barrio	:	De Peñitas	,	Municipio	:	Asientos	,	Estado	:	Aguascalientes	,	Ciudad	:	Asientos	,	Código Postal	:	20999	.
+Barrio	:	Los Tepetates	,	Municipio	:	Asientos	,	Estado	:	Aguascalientes	,	Ciudad	:	Asientos	,	Código Postal	:	20999	.
+Barrio	:	Del CECYTE	,	Municipio	:	Asientos	,	Estado	:	Aguascalientes	,	Ciudad	:	Asientos	,	Código Postal	:	20999	.
+Barrio	:	De Guadalupe	,	Municipio	:	Asientos	,	Estado	:	Aguascalientes	,	Ciudad	:	Asientos	,	Código Postal	:	20999	.
+Barrio	:	Del Tepozán	,	Municipio	:	Asientos	,	Estado	:	Aguascalientes	,	Ciudad	:	Asientos	,	Código Postal	:	20999	.
+Barrio	:	Juventud	,	Municipio	:	Asientos	,	Estado	:	Aguascalientes	,	Ciudad	:	Asientos	,	Código Postal	:	20999	.
+Barrio	:	Chicago	,	Municipio	:	Calvillo	,	Estado	:	Aguascalientes	,	Ciudad	:	Calvillo	,	Código Postal	:	20801	.
+Colonia	:	Aguascalientes Centro	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Colonia	:	Olivares Santana	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Colonia	:	Línea de Fuego	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Colonia	:	Buenos Aires	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Colonia	:	Gremial	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Colonia	:	Industrial	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Colonia	:	Altavista	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Colonia	:	Curtidores	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Colonia	:	Miravalle	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Colonia	:	Del Carmen	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Colonia	:	La Fe	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Colonia	:	México	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Colonia	:	Primavera	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Colonia	:	San Pablo	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Colonia	:	Guadalupe	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Colonia	:	Heliodoro Garcia	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Colonia	:	San Marcos	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Colonia	:	Talamantes Ponce	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Colonia	:	Trojes de Alonso	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Colonia	:	Fátima	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Colonia	:	Primo Verdad	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Colonia	:	San José del Arenal	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Colonia	:	Unidad Ganadera	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Colonia	:	Morelos	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Colonia	:	Buenavista	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Colonia	:	Macias Arellano	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Colonia	:	Lomas del Cobano	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Colonia	:	La Higuerilla	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Colonia	:	Francisco Guel Jimenez	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Colonia	:	Santa Anita 4a Sección	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Colonia	:	Zona Militar	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Colonia	:	Cumbres III	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Colonia	:	Los Pericos	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Colonia	:	J Refugio Esparza Reyes	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Colonia	:	Progreso	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Colonia	:	Del Trabajo	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Colonia	:	Ferronales	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Colonia	:	Lomas de Santa Anita	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Colonia	:	Héroes	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Colonia	:	El Rocío	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Colonia	:	Ex Hacienda Ojocaliente	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Colonia	:	El Riego	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Colonia	:	Veteranos de la Revolución	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Colonia	:	Nueva España	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Colonia	:	La Barranquilla	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Colonia	:	Barandales de San José	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Colonia	:	La Barranca de Guadalupe	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Colonia	:	Pirules INFONAVIT	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Colonia	:	Francisco Villa	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Colonia	:	San Martin de La Cantera	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Colonia	:	El Edén	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Colonia	:	Las Flores	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Colonia	:	Obraje	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Colonia	:	Agricultura	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Colonia	:	Jardines de Santa Elena	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Colonia	:	Santa Elena 2a Sección	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Colonia	:	El Laurel	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Colonia	:	El Llanito	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Colonia	:	La Huerta	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Colonia	:	San Luis	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Colonia	:	Ojo de Agua	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Colonia	:	Sidusa	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Colonia	:	Ojo de Agua de Palmitas	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Colonia	:	La Cruz	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Colonia	:	Misión de Santa Fe	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Colonia	:	Jardines de La Convención	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Colonia	:	Jardines de La Luz	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Colonia	:	Jardines de La Asunción	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Colonia	:	Las Canoas	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Colonia	:	Jardines de las Bugambilias	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Colonia	:	Jardines del Sur	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Colonia	:	Martinez Dominguez	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Colonia	:	San Francisco del Arenal	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Colonia	:	San Pedro	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Colonia	:	Vicente Guerrero	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Colonia	:	Villas de Ajedrez	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Colonia	:	Lomas de Nueva York	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Colonia	:	Mujeres Ilustres	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Colonia	:	Panamericano	,	Municipio	:	San Francisco de los Romo	,	Estado	:	Aguascalientes	,	Ciudad	:	San Francisco de los Romo	,	Código Postal	:	20671	.
+Colonia	:	San Francisco de los Romos Centro	,	Municipio	:	San Francisco de los Romo	,	Estado	:	Aguascalientes	,	Ciudad	:	San Francisco de los Romo	,	Código Postal	:	20671	.
+Colonia	:	El Tirón (El Progreso)	,	Municipio	:	San Francisco de los Romo	,	Estado	:	Aguascalientes	,	Ciudad	:	San Francisco de los Romo	,	Código Postal	:	20671	.
+Colonia	:	Los Cedros	,	Municipio	:	San Francisco de los Romo	,	Estado	:	Aguascalientes	,	Ciudad	:	San Francisco de los Romo	,	Código Postal	:	20671	.
+Colonia	:	San José Buenavista	,	Municipio	:	San Francisco de los Romo	,	Estado	:	Aguascalientes	,	Ciudad	:	San Francisco de los Romo	,	Código Postal	:	20671	.
+Colonia	:	Fracción de la Trinidad II	,	Municipio	:	San Francisco de los Romo	,	Estado	:	Aguascalientes	,	Ciudad	:	San Francisco de los Romo	,	Código Postal	:	20671	.
+Colonia	:	La Escondida (El Salero)	,	Municipio	:	San Francisco de los Romo	,	Estado	:	Aguascalientes	,	Ciudad	:	San Francisco de los Romo	,	Código Postal	:	20671	.
+Colonia	:	San José del Barranco	,	Municipio	:	San Francisco de los Romo	,	Estado	:	Aguascalientes	,	Ciudad	:	San Francisco de los Romo	,	Código Postal	:	20671	.
+Colonia	:	28 de Abril	,	Municipio	:	San Francisco de los Romo	,	Estado	:	Aguascalientes	,	Ciudad	:	San Francisco de los Romo	,	Código Postal	:	20671	.
+Colonia	:	El Barranco	,	Municipio	:	San Francisco de los Romo	,	Estado	:	Aguascalientes	,	Ciudad	:	San Francisco de los Romo	,	Código Postal	:	20671	.
+Colonia	:	El Gigante	,	Municipio	:	San Francisco de los Romo	,	Estado	:	Aguascalientes	,	Ciudad	:	San Francisco de los Romo	,	Código Postal	:	20671	.
+Colonia	:	La Providencia	,	Municipio	:	San Francisco de los Romo	,	Estado	:	Aguascalientes	,	Ciudad	:	San Francisco de los Romo	,	Código Postal	:	20671	.
+Colonia	:	La Trinidad	,	Municipio	:	San Francisco de los Romo	,	Estado	:	Aguascalientes	,	Ciudad	:	San Francisco de los Romo	,	Código Postal	:	20671	.
+Colonia	:	La Unión	,	Municipio	:	San Francisco de los Romo	,	Estado	:	Aguascalientes	,	Ciudad	:	San Francisco de los Romo	,	Código Postal	:	20671	.
+Colonia	:	Las Carmelitas	,	Municipio	:	San Francisco de los Romo	,	Estado	:	Aguascalientes	,	Ciudad	:	San Francisco de los Romo	,	Código Postal	:	20671	.
+Colonia	:	Sociedad Plan de los Sabinos	,	Municipio	:	San Francisco de los Romo	,	Estado	:	Aguascalientes	,	Ciudad	:	San Francisco de los Romo	,	Código Postal	:	20671	.
+Colonia	:	San Ángel	,	Municipio	:	San Francisco de los Romo	,	Estado	:	Aguascalientes	,	Ciudad	:	San Francisco de los Romo	,	Código Postal	:	20671	.
+Colonia	:	San Pedro Victoria de Arriba	,	Municipio	:	San Francisco de los Romo	,	Estado	:	Aguascalientes	,	Ciudad	:	San Francisco de los Romo	,	Código Postal	:	20671	.
+Colonia	:	Santa Anita	,	Municipio	:	San Francisco de los Romo	,	Estado	:	Aguascalientes	,	Ciudad	:	San Francisco de los Romo	,	Código Postal	:	20671	.
+Colonia	:	Rincón de Romos Centro	,	Municipio	:	Rincón de Romos	,	Estado	:	Aguascalientes	,	Ciudad	:	Rincón de Romos	,	Código Postal	:	20401	.
+Colonia	:	Santa Elena	,	Municipio	:	Rincón de Romos	,	Estado	:	Aguascalientes	,	Ciudad	:	Rincón de Romos	,	Código Postal	:	20401	.
+Colonia	:	Desarrollo Especial La Pedrera	,	Municipio	:	Rincón de Romos	,	Estado	:	Aguascalientes	,	Ciudad	:	Rincón de Romos	,	Código Postal	:	20401	.
+Colonia	:	Subdivisión La Piedrera	,	Municipio	:	Rincón de Romos	,	Estado	:	Aguascalientes	,	Ciudad	:	Rincón de Romos	,	Código Postal	:	20401	.
+Colonia	:	El Chaveño	,	Municipio	:	Rincón de Romos	,	Estado	:	Aguascalientes	,	Ciudad	:	Rincón de Romos	,	Código Postal	:	20401	.
+Colonia	:	Rinconada Alameda	,	Municipio	:	Rincón de Romos	,	Estado	:	Aguascalientes	,	Ciudad	:	Rincón de Romos	,	Código Postal	:	20401	.
+Colonia	:	Santa Cruz	,	Municipio	:	Rincón de Romos	,	Estado	:	Aguascalientes	,	Ciudad	:	Rincón de Romos	,	Código Postal	:	20401	.
+Colonia	:	Cerro del Gato	,	Municipio	:	Rincón de Romos	,	Estado	:	Aguascalientes	,	Ciudad	:	Rincón de Romos	,	Código Postal	:	20401	.
+Colonia	:	Independencia	,	Municipio	:	Rincón de Romos	,	Estado	:	Aguascalientes	,	Ciudad	:	Rincón de Romos	,	Código Postal	:	20401	.
+Colonia	:	Magisterial	,	Municipio	:	Rincón de Romos	,	Estado	:	Aguascalientes	,	Ciudad	:	Rincón de Romos	,	Código Postal	:	20401	.
+Colonia	:	Santa Anita	,	Municipio	:	Rincón de Romos	,	Estado	:	Aguascalientes	,	Ciudad	:	Rincón de Romos	,	Código Postal	:	20401	.
+Colonia	:	Desarrollo Especial	,	Municipio	:	Rincón de Romos	,	Estado	:	Aguascalientes	,	Ciudad	:	Rincón de Romos	,	Código Postal	:	20401	.
+Colonia	:	San José	,	Municipio	:	Rincón de Romos	,	Estado	:	Aguascalientes	,	Ciudad	:	Rincón de Romos	,	Código Postal	:	20401	.
+Colonia	:	Presidentes de México	,	Municipio	:	Rincón de Romos	,	Estado	:	Aguascalientes	,	Ciudad	:	Rincón de Romos	,	Código Postal	:	20401	.
+Colonia	:	Cosío Centro	,	Municipio	:	Cosío	,	Estado	:	Aguascalientes	,	Ciudad	:	Cosío	,	Código Postal	:	20401	.
+Colonia	:	Santa Cruz	,	Municipio	:	Cosío	,	Estado	:	Aguascalientes	,	Ciudad	:	Cosío	,	Código Postal	:	20401	.
+Colonia	:	Mexiquito	,	Municipio	:	Cosío	,	Estado	:	Aguascalientes	,	Ciudad	:	Cosío	,	Código Postal	:	20401	.
+Colonia	:	Coplamar	,	Municipio	:	Cosío	,	Estado	:	Aguascalientes	,	Ciudad	:	Cosío	,	Código Postal	:	20401	.
+Colonia	:	Vista Hermosa	,	Municipio	:	Cosío	,	Estado	:	Aguascalientes	,	Ciudad	:	Cosío	,	Código Postal	:	20401	.
+Colonia	:	Tepezalá Centro	,	Municipio	:	Tepezalá	,	Estado	:	Aguascalientes	,	Ciudad	:	Tepezalá	,	Código Postal	:	20999	.
+Colonia	:	San Rafael	,	Municipio	:	Tepezalá	,	Estado	:	Aguascalientes	,	Ciudad	:	Tepezalá	,	Código Postal	:	20999	.
+Colonia	:	Felipe González González	,	Municipio	:	Tepezalá	,	Estado	:	Aguascalientes	,	Ciudad	:	Tepezalá	,	Código Postal	:	20999	.
+Colonia	:	Luis Ortega Douglas	,	Municipio	:	Tepezalá	,	Estado	:	Aguascalientes	,	Ciudad	:	Tepezalá	,	Código Postal	:	20999	.
+Colonia	:	Los Arcos	,	Municipio	:	Tepezalá	,	Estado	:	Aguascalientes	,	Ciudad	:	Tepezalá	,	Código Postal	:	20999	.
+Colonia	:	Pabellón de Arteaga Centro	,	Municipio	:	Pabellón de Arteaga	,	Estado	:	Aguascalientes	,	Ciudad	:	Pabellón de Arteaga	,	Código Postal	:	20671	.
+Colonia	:	Barrio Industrial	,	Municipio	:	Pabellón de Arteaga	,	Estado	:	Aguascalientes	,	Ciudad	:	Pabellón de Arteaga	,	Código Postal	:	20671	.
+Colonia	:	Francisco Villa	,	Municipio	:	Pabellón de Arteaga	,	Estado	:	Aguascalientes	,	Ciudad	:	Pabellón de Arteaga	,	Código Postal	:	20671	.
+Colonia	:	Villas de Pabellón	,	Municipio	:	Pabellón de Arteaga	,	Estado	:	Aguascalientes	,	Ciudad	:	Pabellón de Arteaga	,	Código Postal	:	20671	.
+Colonia	:	5 de Mayo	,	Municipio	:	Pabellón de Arteaga	,	Estado	:	Aguascalientes	,	Ciudad	:	Pabellón de Arteaga	,	Código Postal	:	20671	.
+Colonia	:	Plutarco Elías Calles	,	Municipio	:	Pabellón de Arteaga	,	Estado	:	Aguascalientes	,	Ciudad	:	Pabellón de Arteaga	,	Código Postal	:	20671	.
+Colonia	:	Progreso Sur	,	Municipio	:	Pabellón de Arteaga	,	Estado	:	Aguascalientes	,	Ciudad	:	Pabellón de Arteaga	,	Código Postal	:	20671	.
+Colonia	:	Progreso Norte	,	Municipio	:	Pabellón de Arteaga	,	Estado	:	Aguascalientes	,	Ciudad	:	Pabellón de Arteaga	,	Código Postal	:	20671	.
+Colonia	:	Subdivisión Villa de Guadalupe	,	Municipio	:	Pabellón de Arteaga	,	Estado	:	Aguascalientes	,	Ciudad	:	Pabellón de Arteaga	,	Código Postal	:	20671	.
+Colonia	:	Asientos Centro	,	Municipio	:	Asientos	,	Estado	:	Aguascalientes	,	Ciudad	:	Asientos	,	Código Postal	:	20999	.
+Colonia	:	INFONAVIT	,	Municipio	:	Asientos	,	Estado	:	Aguascalientes	,	Ciudad	:	Asientos	,	Código Postal	:	20999	.
+Colonia	:	Calvillo Centro	,	Municipio	:	Calvillo	,	Estado	:	Aguascalientes	,	Ciudad	:	Calvillo	,	Código Postal	:	20801	.
+Colonia	:	López Mateos	,	Municipio	:	Calvillo	,	Estado	:	Aguascalientes	,	Ciudad	:	Calvillo	,	Código Postal	:	20801	.
+Colonia	:	El Guayabo	,	Municipio	:	Calvillo	,	Estado	:	Aguascalientes	,	Ciudad	:	Calvillo	,	Código Postal	:	20801	.
+Colonia	:	Sección Benito Juárez	,	Municipio	:	Calvillo	,	Estado	:	Aguascalientes	,	Ciudad	:	Calvillo	,	Código Postal	:	20801	.
+Colonia	:	Sección Cerritos	,	Municipio	:	Calvillo	,	Estado	:	Aguascalientes	,	Ciudad	:	Calvillo	,	Código Postal	:	20801	.
+Colonia	:	Sección Loma de Fundadores	,	Municipio	:	Calvillo	,	Estado	:	Aguascalientes	,	Ciudad	:	Calvillo	,	Código Postal	:	20801	.
+Colonia	:	Lomas de Huejúcar	,	Municipio	:	Calvillo	,	Estado	:	Aguascalientes	,	Ciudad	:	Calvillo	,	Código Postal	:	20801	.
+Colonia	:	San Nicolás	,	Municipio	:	Calvillo	,	Estado	:	Aguascalientes	,	Ciudad	:	Calvillo	,	Código Postal	:	20801	.
+Colonia	:	Ejidal	,	Municipio	:	Calvillo	,	Estado	:	Aguascalientes	,	Ciudad	:	Calvillo	,	Código Postal	:	20801	.
+Colonia	:	Liberal	,	Municipio	:	Calvillo	,	Estado	:	Aguascalientes	,	Ciudad	:	Calvillo	,	Código Postal	:	20801	.
+Colonia	:	Rincón de Baltazares	,	Municipio	:	Calvillo	,	Estado	:	Aguascalientes	,	Ciudad	:	Calvillo	,	Código Postal	:	20801	.
+Colonia	:	Valle de Santiago	,	Municipio	:	Calvillo	,	Estado	:	Aguascalientes	,	Ciudad	:	Calvillo	,	Código Postal	:	20801	.
+Colonia	:	Arroyo de Los Caballos	,	Municipio	:	Calvillo	,	Estado	:	Aguascalientes	,	Ciudad	:	Calvillo	,	Código Postal	:	20801	.
+Colonia	:	Del Carmen	,	Municipio	:	Calvillo	,	Estado	:	Aguascalientes	,	Ciudad	:	Calvillo	,	Código Postal	:	20801	.
+Colonia	:	Azteca	,	Municipio	:	Calvillo	,	Estado	:	Aguascalientes	,	Ciudad	:	Calvillo	,	Código Postal	:	20801	.
+Colonia	:	Morelos	,	Municipio	:	Calvillo	,	Estado	:	Aguascalientes	,	Ciudad	:	Calvillo	,	Código Postal	:	20801	.
+Colonia	:	Cerrito Alto	,	Municipio	:	Calvillo	,	Estado	:	Aguascalientes	,	Ciudad	:	Calvillo	,	Código Postal	:	20801	.
+Colonia	:	Emiliano Zapata	,	Municipio	:	Calvillo	,	Estado	:	Aguascalientes	,	Ciudad	:	Calvillo	,	Código Postal	:	20801	.
+Colonia	:	Las Flores	,	Municipio	:	Calvillo	,	Estado	:	Aguascalientes	,	Ciudad	:	Calvillo	,	Código Postal	:	20801	.
+Colonia	:	Valle de Huejúcar	,	Municipio	:	Calvillo	,	Estado	:	Aguascalientes	,	Ciudad	:	Calvillo	,	Código Postal	:	20801	.
+Colonia	:	Los Angeles	,	Municipio	:	Calvillo	,	Estado	:	Aguascalientes	,	Ciudad	:	Calvillo	,	Código Postal	:	20801	.
+Colonia	:	Jesús María Centro	,	Municipio	:	Jesús María	,	Estado	:	Aguascalientes	,	Ciudad	:	Jesús María	,	Código Postal	:	20921	.
+Colonia	:	Bellavista	,	Municipio	:	Jesús María	,	Estado	:	Aguascalientes	,	Ciudad	:	Jesús María	,	Código Postal	:	20921	.
+Colonia	:	El Calvario	,	Municipio	:	Jesús María	,	Estado	:	Aguascalientes	,	Ciudad	:	Jesús María	,	Código Postal	:	20921	.
+Colonia	:	La Escalera	,	Municipio	:	Jesús María	,	Estado	:	Aguascalientes	,	Ciudad	:	Jesús María	,	Código Postal	:	20921	.
+Colonia	:	Flores Magón	,	Municipio	:	Jesús María	,	Estado	:	Aguascalientes	,	Ciudad	:	Jesús María	,	Código Postal	:	20921	.
+Colonia	:	La Cardona	,	Municipio	:	Jesús María	,	Estado	:	Aguascalientes	,	Ciudad	:	Jesús María	,	Código Postal	:	20921	.
+Colonia	:	Los Arroyitos	,	Municipio	:	Jesús María	,	Estado	:	Aguascalientes	,	Ciudad	:	Jesús María	,	Código Postal	:	20921	.
+Colonia	:	San Miguelito	,	Municipio	:	Jesús María	,	Estado	:	Aguascalientes	,	Ciudad	:	Jesús María	,	Código Postal	:	20921	.
+Colonia	:	Cielo Claro	,	Municipio	:	Jesús María	,	Estado	:	Aguascalientes	,	Ciudad	:	Jesús María	,	Código Postal	:	20921	.
+Colonia	:	Jacarandas	,	Municipio	:	Jesús María	,	Estado	:	Aguascalientes	,	Ciudad	:	Jesús María	,	Código Postal	:	20921	.
+Colonia	:	Deportiva	,	Municipio	:	Jesús María	,	Estado	:	Aguascalientes	,	Ciudad	:	Jesús María	,	Código Postal	:	20921	.
+Colonia	:	Lomas de Jesús María	,	Municipio	:	Jesús María	,	Estado	:	Aguascalientes	,	Ciudad	:	Jesús María	,	Código Postal	:	20921	.
+Colonia	:	Vistas del Sáuz	,	Municipio	:	Jesús María	,	Estado	:	Aguascalientes	,	Ciudad	:	Jesús María	,	Código Postal	:	20921	.
+Colonia	:	Las Palmas	,	Municipio	:	Jesús María	,	Estado	:	Aguascalientes	,	Ciudad	:	Jesús María	,	Código Postal	:	20921	.
+Colonia	:	Arboledas	,	Municipio	:	Jesús María	,	Estado	:	Aguascalientes	,	Ciudad	:	Jesús María	,	Código Postal	:	20921	.
+Colonia	:	Chicahuales	,	Municipio	:	Jesús María	,	Estado	:	Aguascalientes	,	Ciudad	:	Jesús María	,	Código Postal	:	20921	.
+Colonia	:	Lomas del Valle	,	Municipio	:	Jesús María	,	Estado	:	Aguascalientes	,	Ciudad	:	Jesús María	,	Código Postal	:	20921	.
+Colonia	:	Martínez Andrade	,	Municipio	:	Jesús María	,	Estado	:	Aguascalientes	,	Ciudad	:	Jesús María	,	Código Postal	:	20921	.
+Colonia	:	Vista Hermosa	,	Municipio	:	Jesús María	,	Estado	:	Aguascalientes	,	Ciudad	:	Jesús María	,	Código Postal	:	20921	.
+Colonia	:	La Cañada	,	Municipio	:	Jesús María	,	Estado	:	Aguascalientes	,	Ciudad	:	Jesús María	,	Código Postal	:	20921	.
+Colonia	:	Ampliación La Cañada	,	Municipio	:	Jesús María	,	Estado	:	Aguascalientes	,	Ciudad	:	Jesús María	,	Código Postal	:	20921	.
+Colonia	:	Ojos de Agua	,	Municipio	:	Jesús María	,	Estado	:	Aguascalientes	,	Ciudad	:	Jesús María	,	Código Postal	:	20921	.
+Colonia	:	Luis Donaldo Colosio	,	Municipio	:	Jesús María	,	Estado	:	Aguascalientes	,	Ciudad	:	Jesús María	,	Código Postal	:	20921	.
+Colonia	:	El Torito	,	Municipio	:	Jesús María	,	Estado	:	Aguascalientes	,	Ciudad	:	Jesús María	,	Código Postal	:	20921	.
+Colonia	:	Las Palmas	,	Municipio	:	Jesús María	,	Estado	:	Aguascalientes	,	Ciudad	:	Jesús María	,	Código Postal	:	20921	.
+Colonia	:	El Chaveño	,	Municipio	:	Jesús María	,	Estado	:	Aguascalientes	,	Ciudad	:	Jesús María	,	Código Postal	:	20921	.
+Colonia	:	Solar de Jonacatique	,	Municipio	:	Jesús María	,	Estado	:	Aguascalientes	,	Ciudad	:	Jesús María	,	Código Postal	:	20921	.
+Condominio	:	Bugambilias	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Condominio	:	Jardines del Campestre	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Condominio	:	Rancho San Antonio	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Condominio	:	Puerto las Hadas	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Condominio	:	La Paloma	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Condominio	:	Santa Fe	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Condominio	:	Las Trojes	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Condominio	:	Trojes del Sol	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Condominio	:	Los Jarales	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Condominio	:	Cerrada El Molino	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Condominio	:	Terzetto	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Condominio	:	Rinconada los Bosques	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Condominio	:	La Perla Norte	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Condominio	:	Las Plazas	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Condominio	:	Villa Notre Dame	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Condominio	:	Privada Guadalupe	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Condominio	:	San Xavier	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Condominio	:	Puerta Navarra	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Condominio	:	Residencial Campestre Club de Golf	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Condominio	:	Residencial Pulgas Pandas Norte	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Condominio	:	Residencial Pulgas Pandas Sur	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Condominio	:	Villas del Vergel	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Condominio	:	Andrea	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Condominio	:	Trento	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Condominio	:	Las Cumbres	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Condominio	:	La Hojarasca	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Condominio	:	Rinconada de La Alameda	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Condominio	:	Bosques de La Alameda	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Condominio	:	La Hacienda	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Condominio	:	La Mancha	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Condominio	:	Misión Alameda	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Condominio	:	Bellavista	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Condominio	:	Nueva Castilla	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Condominio	:	Xenia Residencial	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Condominio	:	Fuentes del Lago	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Condominio	:	Canteras de San Agustin	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Condominio	:	Santa Imelda	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Condominio	:	Los Eucaliptos 2a. Sección	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Condominio	:	Los Eucaliptos	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Condominio	:	Misión Juan Pablo II	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Condominio	:	Los Virreyes	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Condominio	:	Triana	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Condominio	:	Villas de Kristal	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Condominio	:	Ojocaliente FOVISSSTE II	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Condominio	:	Rinconada El Cedazo	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Condominio	:	S.T.E.M.A.	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Condominio	:	Lic Primo Verdad INEGI	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Condominio	:	Jardines de Alejandría	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Condominio	:	Rinconada del Parque	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Condominio	:	Australis	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Condominio	:	Bosque Real	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Condominio	:	Barlovento	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Condominio	:	Abadía	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Condominio	:	Mangata	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Condominio	:	Providencia	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Condominio	:	Paseos de Santa Mónica	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Condominio	:	Villas de Bonaterra	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Condominio	:	Hacienda San Marcos	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Condominio	:	Los Álamos	,	Municipio	:	Jesús María	,	Estado	:	Aguascalientes	,	Ciudad	:	Jesús María	,	Código Postal	:	20921	.
+Condominio	:	Ruiseñores	,	Municipio	:	Jesús María	,	Estado	:	Aguascalientes	,	Ciudad	:	Jesús María	,	Código Postal	:	20921	.
+Condominio	:	Puerta Grande	,	Municipio	:	Jesús María	,	Estado	:	Aguascalientes	,	Ciudad	:	Jesús María	,	Código Postal	:	20921	.
+Condominio	:	La Piedra	,	Municipio	:	Jesús María	,	Estado	:	Aguascalientes	,	Ciudad	:	Jesús María	,	Código Postal	:	20921	.
+Condominio	:	Rinconada Bugambilias	,	Municipio	:	Jesús María	,	Estado	:	Aguascalientes	,	Ciudad	:	Jesús María	,	Código Postal	:	20921	.
+Condominio	:	Misión de Santa María	,	Municipio	:	Jesús María	,	Estado	:	Aguascalientes	,	Ciudad	:	Jesús María	,	Código Postal	:	20921	.
+Condominio	:	Yalta Campestre	,	Municipio	:	Jesús María	,	Estado	:	Aguascalientes	,	Ciudad	:	Jesús María	,	Código Postal	:	20921	.
+Equipamiento	:	Ciudad Universitaria	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Equipamiento	:	Parque y Presa del Cedazo	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Equipamiento	:	Centro SCT Aguascalientes	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	San Cayetano	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Colinas del Rio	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Las Brisas	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Ramon Romo Franco	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Colinas de San Ignacio	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	La Fundición	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Fundición II	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Los Sauces	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Circunvalación Norte	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Las Arboledas	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Villas de San Francisco	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Villas de La Universidad	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	El Sol	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	La Concordia	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Panorama	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Residencial Guadalupe	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Colinas del Poniente	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Gómez	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Moderno	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Valle del Rio San Pedro	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	San Marcos	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Modelo	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Residencial del Valle I	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Residencial del Valle II	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	La Herradura	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Club Campestre	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Los Vergeles	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Granjas del Campestre	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Valle del Campestre	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Villas de Montenegro	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Las Cavas	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	La Enramada	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Trojes de Oriente	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Valle de las Trojes	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Villas de San Nicolás	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	San Telmo	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Barrio de Santiago	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Villa de las Trojes	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Valle de Santa Teresa	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	La Troje	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	San Telmo Residencial	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Aguascalientes 2000	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Misión del Campanario	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Trojes de Cristal	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Residencial Santa Clara	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Misión de Santiago	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Valle del Campanario	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Las Misiones	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Valle Real	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Cerrada de La Misión	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Cerrada del Valle	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Cerrada de la Mezquitera	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Lomas del Campestre 2a Sección	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Villas del Campestre	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Los Calicantos	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Jardines de la Concepción	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Los Bosques	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Arroyo El Molino	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Residencial Altaria	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Constitución	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Libertad	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Pozo Bravo Norte	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Soberana Convención Revolucionaria	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Villa Montaña	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Villas de Don Antonio	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Los Ángeles	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Capittala	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Recinto de la Macarena	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Los Naranjos	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Villa de Nuestra Señora de La Asunción Sector Guadalupe	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Villa Teresa	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Cartagena 1947	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Villas de La Convención	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Lomas de La Asunción	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Villa de Nuestra Señora de La Asunción Sector Encino	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Villa de Nuestra Señora de La Asunción Sector Alameda	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	San José de Pozo Bravo	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Villa de Nuestra Señora de La Asunción Sector San Marcos	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Villa de Nuestra Señora de La Asunción Sector Estación	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	El Rosedal	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Natura	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Montebello Della Stanza	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Rinconada Pozo Bravo	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Pozo Bravo Sur	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Villa Loma Dorada	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Jardines de Montebello	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Villas del Río	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	El Puertecito	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Rinconada del Puertecito	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Bosques del Prado Norte	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Lomas del Campestre 1a Sección	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Bosques del Prado Sur	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	El Roble	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Independencia de México	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Nueva Rinconada	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Residencial del Real	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Palma Real	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Muralia	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	La Rinconada	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	El Plateado	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Cerrada San Miguel	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Las Hadas	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Los Arcos	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Industrial	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	C.T.M.	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	La Estrella	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Parras	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	El Cobano	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Hacienda el Cobano	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Trojes del Cobano	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Villas del Cobano	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Alianza Ferrocarrilera	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Bosques del Prado Oriente	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Santa Anita	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Santa Anita 2a Sección	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	El Maguey	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Nazario Ortiz Garza	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Rodolfo Landeros Gallegos	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	S.T.E.M.A.	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Villa Bonita	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Lic Benito Palomino Dena	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Anexo Benito Palomino Dena (Cumbres II)	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	La Florida l	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	La Florida ll	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Claustros Loma Dorada	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Lomas de Bellavista	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Lomas de las Fuentes	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Colinas de Oriente	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Vista de las Cumbres	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Los Laureles	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Mirador de las Culturas	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Villas de la Loma	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Paseos del Sol	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Miradores de Santa Elena	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Villas de las Fuentes	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Ejido las Cumbres	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Rinconadas las Cumbres	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Lomas de Oriente	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	C.N.O.P. Oriente	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Cerro Alto	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Santa Margarita	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Las Cumbres	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Luis Ortega Douglas	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Pensadores Mexicanos	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Pintores Mexicanos	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Santa Regina	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Luis Gómez Zepeda (ferronales)	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Alameda	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Nueva Alameda	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Ojocaliente	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Solidaridad 1a Sección	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Sol Naciente	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Villa de las Norias	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Camino Real	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Ribera del Sol	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Ambrosía	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	José Guadalupe Peralta Gámez	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Haciendas de Aguascalientes	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Villerías	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Vistas de Oriente	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Real de Haciendas	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Valle de los Cactus	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Colinas de San Patricio	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Balcones de Oriente	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Terra Nova	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	José Guadalupe Posada	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Valle del Bicentenario	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Paseo de los Cactus	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Balcones del Valle	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Real del Sol	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Ejido Ojocaliente	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Municipio Libre	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20001	.
+Fraccionamiento	:	Loma Bonita	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Vergel de la Cantera	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Villas de La Cantera	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Lic Manuel Gómez Morin	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Residencial San Nicolás	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Villas del Mediterráneo	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Ex Hacienda La Cantera	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	José Vasconcelos Calderón	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Porta Canteras	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	El Quelite	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Olinda	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Educación Álamos	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Lic. José López Portillo	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Canteras de San Javier	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Rinconada San José	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Canteras de San José	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Circunvalación Poniente	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	España	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Jardines de los Pirules	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Residencial los Pirules	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Canteras de Santa Imelda	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Jardines del Lago	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Parque Industrial el Vergel	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Las Torres	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Las Américas	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Santa Elena	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Mesonero	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	El Dorado 1a Sección	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	El Dorado 2a Sección	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Valle Dorado	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Villa Jardín	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Hermanos Carreón	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Montebello	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	La Fuente	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	La Luna	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Residencial el Encino	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Triana	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Residencial Cosío	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Jardines de Triana	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Gámez	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Jesús Gómez Portugal	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Héroes de Aguascalientes	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Jardines de La Cruz	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Bona Gens	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Ojocaliente las Torres	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Rinconada de La Cruz	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Villas de Ojocaliente	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Jesús Terán Peredo	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Vivienda Militar	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Agua Clara	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Balcones de Ojocaliente	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Cielo Claro	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Lomas del Chapulín	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Salto de Ojocaliente	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Solidaridad 2a Sección	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Solidaridad 3a Sección	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Tierra Buena	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Rinconada San Antonio I	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Cima del Chapulín	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	Cobano de Palmitas	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
+Fraccionamiento	:	San Jorge	,	Municipio	:	Aguascalientes	,	Estado	:	Aguascalientes	,	Ciudad	:	Aguascalientes	,	Código Postal	:	20293	.
